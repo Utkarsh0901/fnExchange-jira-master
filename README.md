@@ -1,10 +1,6 @@
 # fnExchange Slack Plugin
-This is a plugin for the fnExchange API router for interacting with Slack.
+This is a plugin for the fnExchange API router for interacting with [Jira]().
 
-This plugin currently only provides an Action for posting messages to a Slack
-channel using inbound webhooks. This only requires the inbound webhook URL token.
-
-You can get the Slack webhook URL [here](https://my.slack.com/services/new/incoming-webhook/)
 
 # Installation
 Simply install this as
